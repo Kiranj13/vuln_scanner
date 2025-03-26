@@ -4,13 +4,11 @@
 # 🚀 DSolve-2025 Hackathon
 
 ## 👥 Team Information
-**Team Name:** [Your Creative Team Name]  
+**Team Name:** [Zeal]  
 
 **Team Members:**
-- Member 1 Name
-- [Member 1's Github ](https://github.com/username) - Role/Contribution
-- Member 2 Name
-- [Member 2's Github](https://github.com/username) - Role/Contribution
+- Kiran
+- [Member 1's Github ](https://github.com/kiranj13) - Role/Contribution
 
 ## 💡 Project Idea
 [A clear, concise 2-3 sentence description of your project's purpose and value proposition]
