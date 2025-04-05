@@ -8,7 +8,7 @@
 
 **Team Members:**
 - Kiran
-- [Member 1's Github ](https://github.com/kiranj13) - Role/Contribution
+- (https://github.com/kiranj13) - Role/Contribution
 
 ## 💡 Project Idea
 [A clear, concise 2-3 sentence description of your project's purpose and value proposition]
