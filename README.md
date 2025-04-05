@@ -8,15 +8,32 @@
 
 **Team Members:**
 - Kiran
-- (https://github.com/kiranj13) - Role/Contribution
+- (https://github.com/kiranj13) 
 
 ## 💡 Project Idea
-[A clear, concise 2-3 sentence description of your project's purpose and value proposition]
+This project aims to develop a web-based vulnerability scanner that allows users to check websites for common security issues such as XSS, SQL Injection, Open Directories, Command Injection, and missing Security Headers. It provides real-time analysis with detailed explanations and recommended solutions to help improve website security.
 
 ## ✨ Key Features
-- 🔍 Feature 1: [Brief description]
-- ⚡ Feature 2: [Brief description] 
-- 🛡️ Feature 3: [Brief description]
+- 🔍  Real-time Website Scanning : Scan any URL instantly for common web vulnerabilities.
+
+- 🛡️ Detection of Common Vulnerabilities
+       Identifies issues like:
+        •Cross-Site Scripting (XSS)
+        •SQL Injection
+        •Open Directories
+        •Command Injection
+        •Missing Security Headers
+  
+ - 📝 Detailed Vulnerability Explanations : Provides clear, concise descriptions of each vulnerability found.
+
+💡 Suggested Fixes & Recommendations : Offers practical solutions to help patch the vulnerabilities.
+🔗 Direct Link to Scanned Site :View the target site directly from the results page.
+
+📄 Expandable Detail View
+Click "View Details" for in-depth insights on each specific vulnerability.
+
+🔒 Built with Flask (Python)
+Lightweight and fast backend using Flask for secure and scalable performance.
 
 ## 🎥 Product Demo
 [![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
