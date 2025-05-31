@@ -76,7 +76,7 @@ Lightweight and fast backend using Flask for secure and scalable performance.
 ### Installation
 Step 1: Clone the repository
 git clone https://github.com/Kiranj13/vuln_scanner
-cd vulnerability-scanner
+cd vuln-scanner
 
 Step 2: (Optional) Create and activate a virtual environment
 python -m venv venv
