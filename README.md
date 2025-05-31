@@ -74,29 +74,27 @@ Lightweight and fast backend using Flask for secure and scalable performance.
 - [Any other requirements]
 
 ### Installation
-# Step 1: Clone the repository
+Step 1: Clone the repository
 git clone https://github.com/Kiranj13/vuln_scanner
 cd vulnerability-scanner
 
-# Step 2: (Optional) Create and activate a virtual environment
+Step 2: (Optional) Create and activate a virtual environment
 python -m venv venv
 source venv/bin/activate   # For Windows: venv\Scripts\activate
 
-# Step 3: Install all required dependencies
+ Step 3: Install all required dependencies
 pip install -r requirements.txt
 
-# Step 4: (Optional) Install external tools
-# Install nmap and sslscan if not already installed
+ Step 4: (Optional) Install external tools
+ Install nmap and sslscan if not already installed
 sudo apt install nmap sslscan  
-# Basic scan of a website
+
+ Basic scan of a website
 python scanner.py --url https://example.com
 
-# Run the optional Flask web interface (if available)
+ Run the optional Flask web interface (if available)
 python app.py
 
-```bash
-// {Enter the commands for installation here}
-```
 
 ### Running the Project
 # Basic scan of a website
