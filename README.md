@@ -74,22 +74,45 @@ Lightweight and fast backend using Flask for secure and scalable performance.
 - [Any other requirements]
 
 ### Installation
+# Step 1: Clone the repository
+git clone https://github.com/your-username/vulnerability-scanner.git
+cd vulnerability-scanner
+
+# Step 2: (Optional) Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate   # For Windows: venv\Scripts\activate
+
+# Step 3: Install all required dependencies
+pip install -r requirements.txt
+
+# Step 4: (Optional) Install external tools
+# Install nmap and sslscan if not already installed
+sudo apt install nmap sslscan  
+# Basic scan of a website
+python scanner.py --url https://example.com
+
+# Run the optional Flask web interface (if available)
+python app.py
+
 ```bash
 // {Enter the commands for installation here}
 ```
 
 ### Running the Project
-```bash
-// {Enter the commands for running here}
-```
+# Basic scan of a website
+python scanner.py --url https://example.com
+
+# Run the optional Flask web interface (if available)
+python app.py
+
 
 ## 🤝 How to Contribute
-We welcome contributions! Here are some ways you can help:
+We welcome contributions! Whether it's fixing bugs, writing better docs, or adding new features — your help is appreciated.
 
 ### Good First Issues
-- [ ] Implement feature X
-- [ ] Improve documentation
-- [ ] Fix bug #123
+- [ ] Implement feature: Add login authentication scanner
+- [ ] Improve documentation: Add screenshots to README
+- [ ] Fix bug: Scanner fails on redirecting URLs (#123)
 
 ### Contribution Workflow
 1. Fork the repository
@@ -114,6 +137,3 @@ Used documentation from:
 2.BeautifulSoup Docs(https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 3.Python Requests Library(https://docs.python-requests.org/en/latest/)
-- [Inspiration source 1]
-- [Library/framework documentation]
-- [Team members/mentors]
