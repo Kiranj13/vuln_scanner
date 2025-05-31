@@ -41,10 +41,6 @@ Click "View Details" for in-depth insights on each specific vulnerability.
 🔒 Built with Flask (Python)
 Lightweight and fast backend using Flask for secure and scalable performance.
 
-## 🎥 Product Demo
-[![Watch the Demo](https://drive.google.com/file/d/1QlpbWIH975sw5iH-mlvA21cK9G_5Hkre/view?usp=drive_link)
-*Click the image above to view our product walkthrough*
-
 ## 🛠️ Tech Stack
 | Technology        | Version  | Purpose                                                      |
 | ----------------- | -------- | ------------------------------------------------------------ |
@@ -85,7 +81,7 @@ source venv/bin/activate   # For Windows: venv\Scripts\activate
  Step 3: Install all required dependencies
 pip install -r requirements.txt
 
- Step 4: (Optional) Install external tools
+ Step 4: (OInstall external tools
  Install nmap and sslscan if not already installed
 sudo apt install nmap sslscan  
 
