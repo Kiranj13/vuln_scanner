@@ -87,13 +87,18 @@ We welcome contributions! Here are some ways you can help:
 
 ### Contribution Workflow
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
+2. Create your feature branch (`git checkout -b feature/your-feature-name`)
+3. Commit your changes (`git commit -m "Add: brief message describing your change"`)
+4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Open a Pull Request
 
 
 ## Acknowledgments
+Inspired by OWASP ZAP and Nikto
+Used documentation from:
+OWASP ZAP API
+BeautifulSoup Docs
+Python Requests Library
 - [Inspiration source 1]
 - [Library/framework documentation]
 - [Team members/mentors]
