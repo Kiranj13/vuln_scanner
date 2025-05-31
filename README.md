@@ -40,11 +40,25 @@ Lightweight and fast backend using Flask for secure and scalable performance.
 *Click the image above to view our product walkthrough*
 
 ## 🛠️ Tech Stack
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| Tech 1     | vX.X.X  |         |
-| Tech 1     | vX.X.X  |         |
-| Tech 1     | vX.X.X  |         |
+| Technology        | Version  | Purpose                                                      |
+| ----------------- | -------- | ------------------------------------------------------------ |
+| Python            | 3.10+    | Main programming language                                    |
+| requests          | v2.31.0  | Sending HTTP requests to interact with web pages             |
+| BeautifulSoup     | v4.12.2  | Parsing and extracting data from HTML pages                  |
+| urllib            | Built-in | Handling URLs and encoding/decoding query parameters         |
+| selenium          | v4.14.0  | Automating browser actions (used for login/session handling) |
+| socket            | Built-in | Performing low-level network checks                          |
+| nmap              | v7.94    | Port scanning and service discovery                          |
+| sslscan           | v2.0.15  | Scanning SSL/TLS configurations and certificate issues       |
+| OWASP ZAP API     | v2.12.0  | External security scanning API                               |
+| Nikto             | v2.5.0   | Web server vulnerability scanning                            |
+| Flask             | v2.3.3   | Creating a simple web interface for the scanner              |
+| SQLite            | v3.41.2  | Storing scan history or results locally                      |
+| jinja2            | v3.1.2   | Templating engine for HTML report generation                 |
+| reportlab         | v4.0.7   | Generating PDF reports                                       |
+| argparse          | Built-in | Handling command-line arguments                              |
+| json              | Built-in | Handling data in JSON format                                 |
+
 
 ## 🛠️ Setup Instructions
 
