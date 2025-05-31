@@ -15,37 +15,20 @@ This project aims to develop a web-based vulnerability scanner that allows users
 
 - 🛡️ Detection of Common Vulnerabilities
        Identifies issues like:
-Cross-Site Scripting (XSS)
-
-Command Injection
-
-Directory Traversal
-
-Open Directories
-
-Missing Security Headers
-
-Content-Security-Policy
-
-X-Frame-Options
-
-X-XSS-Protection
-
-Strict-Transport-Security
-
-Exposed Admin Interfaces
-
-Unrestricted File Upload (basic checks)
-
-Verbose Error Messages
-
-Insecure SSL/TLS Configuration
-
-Open Ports/Services (via nmap)
-
-Cross-Site Request Forgery (CSRF) (basic detection)
-
-Information Disclosure (emails, comments in source code, etc.)
+      • Cross-Site Scripting (XSS)
+      •  Command Injection
+      •  Directory Traversal
+      •  Open Directories
+      •  Missing Security Headers
+      •  Content-Security-Policy
+      •  X-Frame-Options
+      •  X-XSS-Protection
+      •  Strict-Transport-Security
+      •  Exposed Admin Interfaces
+      •  Unrestricted File Upload (basic checks)
+      •  Open Ports/Services (via nmap)
+      •  Cross-Site Request Forgery (CSRF) (basic detection)
+      •  Information Disclosure (emails, comments in source code, etc.)
   
  - 📝 Detailed Vulnerability Explanations : Provides clear, concise descriptions of each vulnerability found.
 
