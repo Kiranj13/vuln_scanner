@@ -42,7 +42,7 @@ Click "View Details" for in-depth insights on each specific vulnerability.
 Lightweight and fast backend using Flask for secure and scalable performance.
 
 ## 🎥 Product Demo
-[![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
+[![Watch the Demo](https://drive.google.com/file/d/1QlpbWIH975sw5iH-mlvA21cK9G_5Hkre/view?usp=drive_link)
 *Click the image above to view our product walkthrough*
 
 ## 🛠️ Tech Stack
