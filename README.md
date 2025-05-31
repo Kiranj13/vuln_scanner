@@ -96,7 +96,7 @@ We welcome contributions! Here are some ways you can help:
 ## Acknowledgments
 Inspired by OWASP ZAP and Nikto
 Used documentation from:
-OWASP ZAP API
+OWASP ZAP API[https://www.zaproxy.org/docs/api/]
 BeautifulSoup Docs
 Python Requests Library
 - [Inspiration source 1]
